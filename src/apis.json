@@ -1,0 +1,5 @@
+{
+    "CREATE":"http://dummy.restapiexample.com/api/v1/create",
+    "GET":"http://dummy.restapiexample.com/api/v1/employee",
+    "UPDATE":"http://dummy.restapiexample.com/api/v1/update"
+}
